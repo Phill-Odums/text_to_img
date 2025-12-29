@@ -3,4 +3,5 @@ transformers
 diffusers
 accelerate
 requests
+uuid
 streamlit
